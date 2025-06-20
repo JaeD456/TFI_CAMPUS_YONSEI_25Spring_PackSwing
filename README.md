@@ -41,7 +41,7 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
     </ol>
     
 - **아두이노 코드(Arduino Code)**
-[Arduino Code](./ArduinoCode.??)
+[Arduino Code](.ArduinoCode.ino)
 
 - **회로도(Circuit Diagram)**
 
