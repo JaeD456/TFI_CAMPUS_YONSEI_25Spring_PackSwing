@@ -2,6 +2,9 @@
 <h3>탈부착형 종이팩 자동 분리수거 모듈 (Detachable Automated Sorting Module for Paper Cartons)</h3>
 탈부착형 종이팩 자동 분리수거 모듈은 뚜껑 형식의 모듈로 다양한 쓰레기통에 범용적으로 적용하여 일반팩과 멸균팩을 자동으로 분리해주는 모듈입니다. 본 프로토타입에서는 전문 센서 등을 사용하기 보다는 BreadBoard와 아두이노, 그리고 시중에 판매되는 보편화된 금속 센서를 활용하여 대략적으로 기능을 확인할 수 있는 정도로 제작해보았습니다.  
 
+
+
+
 💡 **가방으로 살아남기**는 게임 요소로 재난 교육의 효과를 높이는 **웹 기반 교육 게임**입니다. 재난 상황에서 생존 가방을 준비하고, 시뮬레이션을 통해 생존 전략을 테스트하고 피드백하는 단계로 구성되어 있습니다.  
 
 Disaster.io is an interactive disaster education game platform designed to facilitate educator-participant interaction during disaster prevention training. In this prototype, we have developed Surviving with a Bag, a demo game for the DISASTER.IO platform.
