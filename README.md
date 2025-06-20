@@ -9,14 +9,14 @@ Disaster.io is an interactive disaster education game platform designed to facil
 💡 **Surviving with a Bag** is a **web-based educational game** designed to enhance disaster education through gamification. It focuses on preparing survival bags, testing survival strategies through simulations, and providing feedback.
 
 <h2>프로젝트 개요 (Project Overview)</h2>
-  * 목적
-    * 이 솔루션은 게임 기반 학습 방식을 활용하여 교육자와 참여자 간 실시간 상호작용을 제공합니다. 기존의 일방향적인 교육 방식과 달리, 참여형 게임 메커니즘을 통해 몰입감과 학습 효과를 극대화합니다.
-    * 본 프로토타입에서는 DISASTER.IO 플랫폼의 데모 게임인 가방으로 살아남기를 제작했습니다.
-    * This solution utilizes a game-based learning approach to enable real-time interaction between educators and participants. Unlike traditional one-way education methods, it maximizes engagement and learning through interactive game mechanics.
+  * 목적  
+    * 이 솔루션은 게임 기반 학습 방식을 활용하여 교육자와 참여자 간 실시간 상호작용을 제공합니다. 기존의 일방향적인 교육 방식과 달리, 참여형 게임 메커니즘을 통해 몰입감과 학습 효과를 극대화합니다.  
+    * 본 프로토타입에서는 DISASTER.IO 플랫폼의 데모 게임인 가방으로 살아남기를 제작했습니다.  
+    * This solution utilizes a game-based learning approach to enable real-time interaction between educators and participants. Unlike traditional one-way education methods, it maximizes engagement and learning through interactive game mechanics.  
 
- * 첫번째 프로젝트 - 가방으로 살아남기
-   * 기존 오프라인 생존가방 보드게임의 장점을 활용하여, 이를 디지털화한 온라인 게임을 개발하였습니다.
-   * Digitize the advantages of an existing offline survival bag board game by developing an online game.
+ * 첫번째 프로젝트 - 가방으로 살아남기  
+   * 기존 오프라인 생존가방 보드게임의 장점을 활용하여, 이를 디지털화한 온라인 게임을 개발하였습니다.  
+   * Digitize the advantages of an existing offline survival bag board game by developing an online game.  
 <details>
 <summary>생존가방 보드게임</summary>
 실제 재난 상황이 발생했을 때, 필요한 물품들을 빠르게 챙겨보는 연습. 교육자와 참여자가 함께 참여해서 몰입도를 높일 수 있습니다. *Survival Bag Kit* - An exercise where participants quickly gather essential items in a simulated disaster scenario. The interactive nature enhances engagement between educators and participants.
