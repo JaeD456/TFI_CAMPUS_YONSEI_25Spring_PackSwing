@@ -23,20 +23,18 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
     - While conventional IoT-based collection systems often rely on AI deep learning, which requires high power consumption and large physical size, PackSwing simplifies the classification algorithm to significantly **reduce both power usage and device size**, making it more environmentally friendly and widely applicable.
 
 - **주요 기능(Key Features)**
-    1. **방 생성 및 참여**: 사용자는 방을 생성하고, 방 코드로 다른 팀원들이 참여할 수 있습니다.
-    2. **가방 선택**: 각 팀은 생존 가방을 선택하고, 필요한 아이템을 추가할 수 있습니다.
-    3. **시뮬레이션:** 선택한 아이템을 기반으로 시뮬레이션을 진행하여 생존 전략을 테스트합니다.
-    4. **결과 확인**: 시뮬레이션 결과를 확인하고, 각 팀의 상태를 모니터링할 수 있습니다.
+    1. **멸균팩, 일반팩 인식**: 사용자는 멸균팩, 일반팩을 구분하지 않고 쓰레기통에 올려둡니다. 이때, PackSwing은 물체가 올라왔다는 것을 인식합니다.
+    2. **멸균팩, 일반팩 구분**: 멸균팩의 경우 금속 인식 센서에 의해 금속이 인식되고, 일반팩의 경우 금속 인식 센서는 반응하지 않습니다.
+    3. **분리 배출**: 금속 인식 센서가 반응하면(멸균팩) 시계방향으로, 반응하지 않으면(일반팩) 시계 반대방향으로 각각 90도 회전하며 종이팩을 분리 배출합니다.
 
     <ol start="1">
-    <li><b>Room Creation and Participation</b>: 
-    Users can create a room and invite team members via a code.
-    </li><li><b>Bag Selection</b>: 
-    Each team selects a survival bag and adds necessary items.
-    </li><li><b>Simulation</b>: 
-    Run simulations based on chosen items to test survival strategies.
-    </li><li><b>Results</b>: 
-    View simulation results and monitor each team’s status.</li>
+    <li><b>Aseptic vs. Regular Carton Detection</b>: 
+    Users place both aseptic and regular carton into the bin without distinguishing between them. At this point, PackSwing detects that an object has been placed.
+    </li><li><b>Aseptic vs. Regular Pack Identification</b>: 
+    If it's a aseptic carton, the metal detection sensor detects aluminum layer in an aseptic carton. If it's a regular carton, the metal sensor does not respond.
+    </li><li><b>Sorting and Disposal</b>: 
+    If metal is detected (aseptic carton), PackSwing rotates 90 degrees clockwise. If not (regular carton), it rotates 90 degrees counterclockwise to sort and dispose of the cartons accordingly.
+    </li>
     </li>
     </ol>
     
@@ -45,7 +43,8 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
 
 
 - **회로도 및 부품(Circuit Diagram & Electronic components)**
-[Arduino Code](./assets/CircuitDiagram.png)
+<img src="./assets/CircuitDiagram.png" alt="CircuitDiagram" width="800"/>
+
 1. 아두이노 호환보드(Arduino UNO R3)
 2. 브레드보드(Breadboard)
 3. 배터리(Battery)
