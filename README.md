@@ -43,11 +43,16 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
 - **아두이노 코드(Arduino Code)**
 [Arduino Code](./ArduinoCode.ino)
 
-- **회로도(Circuit Diagram)**
 
-- 
-
-  
+- **회로도 및 부품(Circuit Diagram & Electronic components)**
+[Arduino Code](./assets/CircuitDiagram.png)
+1. 아두이노 호환보드(Arduino UNO R3)
+2. 브레드보드(Breadboard)
+3. 배터리(Battery)
+4. 금속인식센서(DIY Kit Metal Detector)(Model: ICstation)
+5. 적외선 거리측정 센서(Infrared Distance Sensor)(Model: 2Y0A02)
+6. 모터(Motor)(Model: MG995)
+7. 전선(Line): VCC(RED), GND(Black), SIG(Orange)
     
 ## 프로젝트 결과 (Project Outcomes)
 
