@@ -1,13 +1,13 @@
 # PackSwing
 ### 탈부착형 종이팩 자동 분리수거 모듈 (Detachable Automated Sorting Module for Paper Cartons)
 
- 탈부착형 종이팩 자동 분리수거 모듈은 뚜껑 형식의 모듈로 다양한 쓰레기통에 범용적으로 적용하여 일반팩과 멸균팩을 자동으로 분리해주는 모듈입니다. 본 프로토타입에서는 전문 센서 등을 사용하기보다는 BreadBoard와 아두이노, 그리고 시중에 판매되는 보편화된 금속 센서를 활용하여 대략적으로 기능을 확인할 수 있는 정도로 제작해보았습니다. 
+ 탈부착형 종이팩 자동 분리수거 모듈(이하 PackSwing)은 뚜껑 형식의 모듈로 다양한 쓰레기통에 범용적으로 적용하여 일반팩과 멸균팩을 자동으로 분리해주는 모듈입니다. 본 프로토타입에서는 전문 센서 등을 사용하기보다는 BreadBoard와 아두이노, 그리고 시중에 판매되는 보편화된 금속 센서를 활용하여 대략적으로 기능을 확인할 수 있는 정도로 제작해보았습니다. 
 
-💡  **가방으로 살아남기**는 게임 요소로 재난 교육의 효과를 높이는 **웹 기반 교육 게임**입니다. 재난 상황에서 생존 가방을 준비하고, 시뮬레이션을 통해 생존 전략을 테스트하고 피드백하는 단계로 구성되어 있습니다.
+💡  **PackSwing**은 일반팩과 멸균팩을 구분하는 차이점인 알루미늄 막의 존재 유무를 활용하여 일반팩과 멸균팩을 자동으로 분리해줍니다. 이러한 로직을 구현하는 아두이노 코드가 하단에 제공되어있습니다.
 
-Disaster.io is an interactive disaster education game platform designed to facilitate educator-participant interaction during disaster prevention training. In this prototype, we have developed *Surviving with a Bag*, a demo game for the DISASTER.IO platform.
+The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as PackSwing) is a module designed to be universally compatible with various trash bins, automatically sorting between regular paper cartons and aseptic cartons. In this prototype, instead of using specialized sensors, we utilized a breadboard, an Arduino, and commonly available metal sensors to build a simplified version that demonstrates the basic functionality.
 
-**💡 *Surviving with a Bag*** is a **web-based educational game** designed to enhance disaster education through gamification. It focuses on preparing survival bags, testing survival strategies through simulations, and providing feedback.
+💡 **PackSwing** automatically sorts regular and aseptic cartons by detecting the presence or absence of an aluminum layer—a key distinguishing feature between the two types. The Arduino code implementing this logic is provided below.
 
 ![logo_img.png](logo_img.png)
 
@@ -52,7 +52,11 @@ Disaster.io is an interactive disaster education game platform designed to facil
 ## 프로젝트 결과 (Project Outcomes)
 
 ### 데모 영상 (Demo Video)
-[Demo Video 링크](./assets/DemoVideo.mp4)  
+[Demo Video 링크](./assets/DemoVideo.mp4)
+
+  **View raw (Sorry about that, but we can’t show files that are this big right now.)** 와 같은 텍스트가 뜰 수 있지만, **View raw** 를 클릭하면 영상을 다운받을 수 있습니다.
+  
+  You may see a message like **View raw (Sorry about that, but we can’t show files that are this big right now.)**, but you can still download the video by clicking **View raw**.
 
 ### 특징 및 장점 (Features & Benefits)
 - **실시간 피드백 및 상호작용:**  
