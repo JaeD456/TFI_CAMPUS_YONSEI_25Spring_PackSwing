@@ -1,6 +1,6 @@
-# TFI_CAMPUS_YONSEI_25Spring_PackSwing
-Disaster.io
-참여형 방재 교육 게임 (Interactive Disaster Prevention Education Game)
+# PackSwing
+---
+<h1>참여형 방재 교육 게임 (Interactive Disaster Prevention Education Game)</h1>
 Disaster.io는 재난 예방교육시 교육자-참여자 상호작용이 가능하도록 돕는 참여형 방재 교육 게임 플랫폼입니다. 본 프로토타입에서는 DISASTER.IO 플랫폼의 데모 게임인 가방으로 살아남기를 제작해보았습니다.
 
 💡 가방으로 살아남기는 게임 요소로 재난 교육의 효과를 높이는 웹 기반 교육 게임입니다. 재난 상황에서 생존 가방을 준비하고, 시뮬레이션을 통해 생존 전략을 테스트하고 피드백하는 단계로 구성되어 있습니다.
