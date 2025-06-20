@@ -9,8 +9,8 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
 
 💡 **PackSwing** automatically sorts regular and aseptic cartons by detecting the presence or absence of an aluminum layer—a key distinguishing feature between the two types. The Arduino code implementing this logic is provided below.
 
-![logo_img.png](logo_img.png)
-
+![assets/Module.png](assets/Module.png)
+![assets/ModuleWithTrashBin.png](assets/ModuleWithTrashBin.png)
 
 ## 프로젝트 개요 (Project Overview)
 
