@@ -1,21 +1,18 @@
 # PackSwing
-<h2>탈부착형 종이팩 자동 분리수거 모듈 (Detachable Automated Sorting Module for Paper Cartons)</h2>
-탈부착형 종이팩 자동 분리수거 모듈은 뚜껑 형식의 모듈로 다양한 쓰레기통에 범용적으로 적용하여 일반팩과 멸균팩을 자동으로 분리해주는 모듈입니다. 본 프로토타입에서는 전문 센서 등을 사용하기 보다는 BreadBoard와 아두이노, 그리고 시중에 판매되는 보편화된 금속 센서를 활용하여 대략적으로 기능을 확인할 수 있는 정도로 제작해보았습니다.
+<h3>탈부착형 종이팩 자동 분리수거 모듈 (Detachable Automated Sorting Module for Paper Cartons)</h3>
+탈부착형 종이팩 자동 분리수거 모듈은 뚜껑 형식의 모듈로 다양한 쓰레기통에 범용적으로 적용하여 일반팩과 멸균팩을 자동으로 분리해주는 모듈입니다. 본 프로토타입에서는 전문 센서 등을 사용하기 보다는 BreadBoard와 아두이노, 그리고 시중에 판매되는 보편화된 금속 센서를 활용하여 대략적으로 기능을 확인할 수 있는 정도로 제작해보았습니다.  
 
-💡 **가방으로 살아남기**는 게임 요소로 재난 교육의 효과를 높이는 **웹 기반 교육 게임**입니다. 재난 상황에서 생존 가방을 준비하고, 시뮬레이션을 통해 생존 전략을 테스트하고 피드백하는 단계로 구성되어 있습니다.
+💡 **가방으로 살아남기**는 게임 요소로 재난 교육의 효과를 높이는 **웹 기반 교육 게임**입니다. 재난 상황에서 생존 가방을 준비하고, 시뮬레이션을 통해 생존 전략을 테스트하고 피드백하는 단계로 구성되어 있습니다.  
 
 Disaster.io is an interactive disaster education game platform designed to facilitate educator-participant interaction during disaster prevention training. In this prototype, we have developed Surviving with a Bag, a demo game for the DISASTER.IO platform.
 
 💡 **Surviving with a Bag** is a **web-based educational game** designed to enhance disaster education through gamification. It focuses on preparing survival bags, testing survival strategies through simulations, and providing feedback.
 
-<h2>프로젝트 개요 (Project Overview)</h2>
-
- * 이 솔루션은 게임 기반 학습 방식을 활용하여 교육자와 참여자 간 실시간 상호작용을 제공합니다.  
-   기존의 일방향적인 교육 방식과 달리, 참여형 게임 메커니즘을 통해 몰입감과 학습 효과를 극대화합니다.
-
- * 본 프로토타입에서는 **DISASTER.IO** 플랫폼의 데모 게임인 **가방으로 살아남기**를 제작했습니다.
-
- * This solution utilizes a **game-based learning** approach to enable real-time interaction between educators and participants.  
+# 프로젝트 개요 (Project Overview)
+* 목적
+  * 이 솔루션은 게임 기반 학습 방식을 활용하여 교육자와 참여자 간 실시간 상호작용을 제공합니다. 기존의 일방향적인 교육 방식과 달리, 참여형 게임 메커니즘을 통해 몰입감과 학습 효과를 극대화합니다.
+  * 본 프로토타입에서는 **DISASTER.IO** 플랫폼의 데모 게임인 **가방으로 살아남기**를 제작했습니다.
+  * This solution utilizes a **game-based learning** approach to enable real-time interaction between educators and participants.  
    Unlike traditional one-way education methods, it maximizes engagement and learning through interactive game mechanics.
 
  * 첫번째 프로젝트 - 가방으로 살아남기
@@ -36,7 +33,7 @@ Disaster.io is an interactive disaster education game platform designed to facil
   iii. Simulation: Run simulations based on chosen items to test survival strategies.
   iv. Results: View simulation results and monitor each team’s status.
 
-<h2>프로젝트 결과 (Project Outcomes)</h2>
+# 프로젝트 결과 (Project Outcomes)
 <h3>데모 영상 (Demo Video)</h3>
 [Demo Video 링크](https://naver.com)
 
@@ -58,7 +55,7 @@ Disaster.io is an interactive disaster education game platform designed to facil
  * Scalable Education:
    Provides disaster education without time or space constraints through online games, enabling easy access and contributing to the dissemination of educational resources.
 
-<h2>기대 효과 (Expected Benefits)</h2>
+# 기대 효과 (Expected Benefits)
 <h3>영향 (Impact)</h3>
  * 교육 참여율 및 만족도 증가
 
@@ -76,7 +73,7 @@ Disaster.io is an interactive disaster education game platform designed to facil
  * 다양한 시나리오 업데이트 전 세계의 다양한 재난 상황을 기반으로 새로운 시나리오를 지속적으로 추가하여 교육 효과를 극대화할 수 있습니다.
  * Multiplayer Mode A mode where multiple players collaborate to pack survival bags and create survival plans in disaster scenarios.
 
-<h2>설치 및 실행 방법 (Installation & Execution)</h2>
+# 설치 및 실행 방법 (Installation & Execution)
 **Service is now deployed and hosted on [https://disaster.buttercrab.net/](https://disaster.buttercrab.net/)**
 If you want to run the program in your local environment, follow the instruction.
 
@@ -97,7 +94,7 @@ docker-compose up --build # for windows
 
 5. Go to the Start Page link: https://localhost:8080/
 
-<h2>팀 소개 (Team Introduction)</h2>
+# 팀 소개 (Team Introduction)
 <h3>팀원 (Team Members)</h3>
  * 김정빈 (Jeongbin Kim): PM, 기획자, 개발자 (PM, Planner, Developer)
    ✉️ Mail: jake16@kaist.ac.kr | GitHub: ijake-16
@@ -116,10 +113,10 @@ docker-compose up --build # for windows
  * Fellow : 더프라미스 김동훈 펠로우님 (Donghoon Kim @ The Promise): Organization Website
  * Mentor : 카카오페이 이상은 멘토님 (Sangeun Lee @ Kakaopay): 멘토 연락처 또는 링크
 
-<h2>개발 환경 (Development Environment)</h2>
+# 개발 환경 (Development Environment)
 
 
-<h2>연관 자료 (Related Resources)</h2>
+# 연관 자료 (Related Resources)
 [최종 발표 자료 링크 (Final Presentation Materials)](https://naver.com)
 [참조 자료 (References)](https://naver.com)
 [펠로우 조직 사이트 (Fellow Organization Website)](https://naver.com)
