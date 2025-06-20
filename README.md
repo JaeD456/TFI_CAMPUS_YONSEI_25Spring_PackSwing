@@ -35,7 +35,7 @@ Disaster.io is an interactive disaster education game platform designed to facil
 
 # 프로젝트 결과 (Project Outcomes)
 <h3>데모 영상 (Demo Video)</h3>
-[Demo Video 링크](https://naver.com)
+[Demo Video 링크](.assets/DemoVideo.mp4)
 
 <h3>특징 및 장점 (Features & Benefits)</h3>
  * 실시간 피드백 및 상호작용:
