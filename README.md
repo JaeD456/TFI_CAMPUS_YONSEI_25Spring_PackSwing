@@ -63,64 +63,58 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
   You may see a message like **View raw (Sorry about that, but we can’t show files that are this big right now.)**, but you can still download the video by clicking **View raw**.
 
 ### 특징 및 장점 (Features & Benefits)
-- **실시간 피드백 및 상호작용:**  
-    교육자와 학습자 간 실시간 피드백과 상호작용을 통해 학습 흥미를 유발하고 기억에 오래 남는 경험을 제공합니다.
-- **몰입형 학습:**  
-    다양한 시나리오와 게임 메커니즘을 활용하여 재미와 학습을 조화롭게 결합한 참여형 교육을 제공합니다.
-- **효과적인 교육 전달:**  
-    단방향 강의를 넘어선 상호작용 방식으로 기존 방재 교육의 한계를 극복하고, 더 높은 학습 효과를 보장합니다.
-- **교육 확산성:**  
-    온라인 게임 형태로 시공간의 제약 없이 누구나 쉽게 접근 가능하며, 방재 교육 자료로 활용할 수 있어 교육 전파에 기여합니다.
-- **Real-Time Feedback and Interaction:**  
-    Facilitates real-time feedback and interaction between educators and learners, enhancing engagement and creating a lasting learning experience.
-- **Immersive Learning:**  
-    Offers interactive education by combining engaging scenarios with game mechanics, balancing fun and learning effectively.
-- **Effective Knowledge Delivery:**  
-    Overcomes the limitations of traditional disaster education through participatory methods, ensuring greater learning impact.
-- **Scalable Education:**  
-    Provides disaster education without time or space constraints through online games, enabling easy access and contributing to the dissemination of educational resources.
+- **사전 지식 불필요:** 멸균팩과 일반팩을 분리 배출해야한다는 **사전 지식이 없이도** 어려움없이 분리배출할 수 있도록 도와줍니다.
+- **간단한 사용:** 기존 IoT 수거함에서 필요했던 바코드 확인, 미리 해두어야하는 세척 과정 등의 불필요한 과정없이, 그냥 쓰레기통에 던지듯이 던져도 자동으로 분리 배출되므로 사용법이 아주 간단합니다.
+- **탈부착 가능:** 크기가 컸던 기존 IoT 종이팩 수거함과는 달리 **뚜껑형태로 탈부착이 가능하여** 일반 쓰레기통 위에 올려두는 방식으로도 종이팩 분리 배출이 가능해집니다.
+- **저비용 생산/설치:** 기존 IoT 수거함과는 달리 **전력 사용량** 관점에서도 설치에 필요한 비용이 매우 저렴하고, 생산하는데 들어가는 **부품 비용**도 매우 저렴합니다.
+- **No Prior Knowledge Required**: Users can separate aseptic and regular cartons without needing any prior knowledge.
+- **Simple to Use**: Unlike traditional IoT carton bins that require barcode scanning or pre-washing, this system allows users to simply toss in cartons like regular trash bins.
+- **Attachable/Detachable Design**: Unlike bulky existing IoT bins, this system is designed as a detachable lid, making it easy to place on top of regular trash bins.
+- **Low-Cost Production & Installation**: Compared to conventional IoT bins, this system is significantly cheaper to produce and install, both in terms of power consumption and component costs.
+
 
 ## 기대 효과 (Expected Benefits)
 
 
 ### 영향 (Impact)
 
-- **교육 참여율 및 만족도 증가**
-- **재난 교육의 효과 증가**: 쉽게 흥미를 느낄 수 있는 게임으로 교육 내용을 효과적으로 전달합니다.
-- **온라인 재난 교육 콘텐츠 증가**: 제작된 플랫폼에 높은 품질의 온라인 재난 교육 콘텐츠를 개제할 수 있습니다.
+- **인식 개선의 효과**: 수거함의 존재 자체만으로도 멸균팩과 일반팩을 **분리해야한다는 사실을 인지**할 수 있습니다.
+- **혼합 배출 방지**: 종이팩을 분리배출할 수 있는 시스템을 다중이용시설에 제공함으로써 종이팩의 **혼합 배출을 방지**하고, 종이팩의 **재활용률을 높이는 것에 기여**할 수 있습니다.
+- **정부 정책의 변화 유도**: 종이팩 분리배출의 수요가 높아지게 되면, 그에 맞춰 종이팩 분리배출 **사후 처리에 대한 정책적 변화를 유도**할 수 있게 되어 전체적인 선순환에 기여해볼 수 있을 것이라고 기대됩니다.
+- **Improved Awareness**: The presence of the collection bin helps users recognize the need to separate aseptic and regular cartons.
+- **Prevention of Mixed Disposal**: By providing a system for carton separation in public spaces, we can prevent the mixed disposal of cartons and contribute to increasing the recycling rate.
+- **Policy Change Encouragement**: As demand for carton separation grows, it may encourage policy changes regarding post-disposal processing, contributing to a broader positive cycle.
 
-- **Increased participation and satisfaction in education**
-- **Increased effectiveness of disaster training**: Effectively delivers educational content through games that are easy to engage with.
-- **Increased online disaster education content**: High-quality online disaster education content can be published on the developed platform.
 
 ### 확장 가능성 (Scalability)
 
-- **다양한 시나리오 업데이트**
-    전 세계의 다양한 재난 상황을 기반으로 새로운 시나리오를 지속적으로 추가하여 교육 효과를 극대화할 수 있습니다.
-- **Multiplayer Mode**
-    A mode where multiple players collaborate to pack survival bags and create survival plans in disaster scenarios.
-
+- **모듈 길이조절 기능 추가**: 길이가 조절 가능하도록 하면 다양한 쓰레기통 크기에 맞추어 설치할 수 있어 **범용성**을 더욱 확장시킬 수 있습니다.
+- **배출 여부 확인 가능한 소리 기능 추가**: 배출이 올바르게 완료되면 멸균팩으로 분리되었는지, 일반팩으로 분리되었는지 알려줄 수 있는 스피커를 추가하여 **인식 개선**을 더욱 효과적으로 할 수 있습니다.
+- **Add Adjustable Module Length**: Making the length adjustable allows the system to be installed in trash bins of various sizes, greatly enhancing its **versatility**.
+- **Add Sound Notification for Disposal Status**: Adding a speaker that notifies **whether the item was sorted** as an aseptic or regular carton after disposal can significantly improve user **awareness and feedback.**
 
 
 ## 설치 및 실행 방법 (Installation & Execution)
 
-**1. Check if the Docker Daemon is running**
-
+**1. 위의 회로도를 참고하여 회로도를 완성(Complete the circuit with reference to the schematic above)**
+**2. 위의 이미지를 참고하여 쓰레기통 틀 제작(Build the trash bin frame based on the image above)**
+**3. 회전판 및 틀에 아두이노 보드, Breadboard, Battery, Motor 부착(Attach the Arduino board, breadboard, battery, and motor to the rotating plate and frame)**
+**4. 아두이노 코드를 아두이노 보드에 업로드하여 코드 실행(Upload the Arduino code to the Arduino board and run the program)**: [Arduino Code](./ArduinoCode.ino)
 
 ## 팀 소개 (Team Introduction)
 
 ### 팀원 (Team Members)
-- **강소현 (SoHyun Kang)**: PM, 기획자, 디자이너 (PM, Planner, Designer)
+- **강소현 (SoHyun Kang)**: PM, 기획자, 디자이너 (PM, Planner, Designer)  
   ✉️ Mail: kangsobee@yonsei.ac.kr | Github: [kkangsso](https://github.com/kkangsso)
 - **강승원 (Seungwon Kang)**: 기획자, 개발자, 프로토타입 제작 (Planner, Lead Developer)  
   ✉️ Mail: swkang7263@yonsei.ac.kr | GitHub: [Seungwon511](https://github.com/Seungwon511)
-- **김윤서 (Yoonseo Kim)**: 기획자 (Planner)
+- **김윤서 (Yoonseo Kim)**: 기획자 (Planner)  
   ✉️ Mail: lemonashley@naver.com | Github: [yoonseo05](https://github.com/yoonseo05)
-- **서은빈 (Eunbin Seo)**: 기획자, 프로토타입 제작, 프리젠테이션 (Planner, Developer, Presenter)
-  ✉️ Mail: seoeunbin609@gmail.com | Github: BBI-BI[BBI-BI](https://github.com/BBI-BI)
-- **신예진 (YeJin Shin)**: 디자이너, 기획자 (Designer, Planner)  
-  ✉️ Mail: yj2003@yonsei.ac.kr  | Github: [yeding20](https://github.com/yeding20)
-- **이재동 (Jaedong Lee)**: 기획, 프로토타입 제작(Planner, Developer)
+- **서은빈 (Eunbin Seo)**: 기획자, 프로토타입 제작, 프리젠테이션 (Planner, Developer, Presenter)  
+  ✉️ Mail: seoeunbin609@gmail.com | Github: BBI-BI[BBI-BI](https://github.com/BBI-BI)  
+- **신예진 (YeJin Shin)**: 디자이너, 기획자 (Designer, Planner)    
+  ✉️ Mail: yj2003@yonsei.ac.kr  | Github: [yeding20](https://github.com/yeding20)  
+- **이재동 (Jaedong Lee)**: 기획, 프로토타입 제작(Planner, Developer)  
   ✉️ Mail: dlwoehd456@gmail.com | Github: [JaeD456](https://github.com/JaeD456)
 
 ### 펠로우 및 멘토 (Fellow & Mentor)
