@@ -15,8 +15,10 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
 ## 프로젝트 개요 (Project Overview)
 
 - **목적**
-    - 이 솔루션은 **게임 기반 학습 방식을 활용하여 교육자와 참여자 간 실시간 상호작용**을 제공합니다. 기존의 일방향적인 교육 방식과 달리, 참여형 게임 메커니즘을 통해 몰입감과 학습 효과를 극대화합니다.
-    - 본 프로토타입에서는 DISASTER.IO 플랫폼의 데모 게임인 **가방으로 살아남기**를 제작했습니다.
+    - 이 솔루션은 **멸균팩과 일반팩을 자동으로 분리할 수 있는 기능**을 제공합니다.
+    - 기존의 일반 종이류 쓰레기통에서 무작위적으로 버려지고 있는 **멸균팩과 일반팩, 종이의 혼합배출**을 해결할 수 있습니다.
+    - 기존의 IoT 수거함은 AI 딥러닝을 활용하여 사용하는 전력이 많고 크기가 크다는 문제점이 있었는데, 분류 알고리즘을 간단히 하여 **사용전력과 크기를 모두 줄여** 환경에도, 범용성에도 큰 장점이 있습니다.
+    - 본 프로토타입에서는 완전한 제품에 사용되는 전선과 센서, 
     - This solution utilizes a **game-based learning approach to enable real-time interaction** between educators and participants. Unlike traditional one-way education methods, it maximizes engagement and learning through interactive game mechanics.
 - **첫번째 프로젝트 - 가방으로 살아남기**
     - 기존 오프라인 생존가방 보드게임의 장점을 활용하여, 이를 **디지털화한 온라인 게임**을 개발하였습니다.
