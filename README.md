@@ -1,6 +1,6 @@
 # PackSwing
-<h2>참여형 방재 교육 게임 (Interactive Disaster Prevention Education Game)</h2>
-Disaster.io는 재난 예방교육시 교육자-참여자 상호작용이 가능하도록 돕는 참여형 방재 교육 게임 플랫폼입니다. 본 프로토타입에서는 DISASTER.IO 플랫폼의 데모 게임인 가방으로 살아남기를 제작해보았습니다.
+<h2>탈부착형 종이팩 자동 분리수거 모듈 (Detachable Automated Sorting Module for Paper Cartons)</h2>
+탈부착형 종이팩 자동 분리수거 모듈은 뚜껑 형식의 모듈로 다양한 쓰레기통에 범용적으로 적용하여 일반팩과 멸균팩을 자동으로 분리해주는 모듈입니다. 본 프로토타입에서는 전문 센서 등을 사용하기 보다는 BreadBoard와 아두이노, 그리고 시중에 판매되는 보편화된 금속 센서를 활용하여 대략적으로 기능을 확인할 수 있는 정도로 제작해보았습니다.
 
 💡 **가방으로 살아남기**는 게임 요소로 재난 교육의 효과를 높이는 **웹 기반 교육 게임**입니다. 재난 상황에서 생존 가방을 준비하고, 시뮬레이션을 통해 생존 전략을 테스트하고 피드백하는 단계로 구성되어 있습니다.
 
@@ -9,12 +9,16 @@ Disaster.io is an interactive disaster education game platform designed to facil
 💡 **Surviving with a Bag** is a **web-based educational game** designed to enhance disaster education through gamification. It focuses on preparing survival bags, testing survival strategies through simulations, and providing feedback.
 
 <h2>프로젝트 개요 (Project Overview)</h2>
- * 목적 
-  * 이 솔루션은 게임 기반 학습 방식을 활용하여 교육자와 참여자 간 실시간 상호작용을 제공합니다. 기존의 일방향적인 교육 방식과 달리, 참여형 게임 메커니즘을 통해 몰입감과 학습 효과를 극대화합니다. 
-  * 본 프로토타입에서는 DISASTER.IO 플랫폼의 데모 게임인 가방으로 살아남기를 제작했습니다.  
-  * This solution utilizes a game-based learning approach to enable real-time interaction between educators and participants. Unlike traditional one-way education methods, it maximizes engagement and learning through interactive game mechanics.  
 
- * 첫번째 프로젝트 - 가방으로 살아남기  
+ * 이 솔루션은 게임 기반 학습 방식을 활용하여 교육자와 참여자 간 실시간 상호작용을 제공합니다.  
+   기존의 일방향적인 교육 방식과 달리, 참여형 게임 메커니즘을 통해 몰입감과 학습 효과를 극대화합니다.
+
+ * 본 프로토타입에서는 **DISASTER.IO** 플랫폼의 데모 게임인 **가방으로 살아남기**를 제작했습니다.
+
+ * This solution utilizes a **game-based learning** approach to enable real-time interaction between educators and participants.  
+   Unlike traditional one-way education methods, it maximizes engagement and learning through interactive game mechanics.
+
+ * 첫번째 프로젝트 - 가방으로 살아남기
    * 기존 오프라인 생존가방 보드게임의 장점을 활용하여, 이를 디지털화한 온라인 게임을 개발하였습니다.  
    * Digitize the advantages of an existing offline survival bag board game by developing an online game.  
 <details>
