@@ -30,7 +30,7 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
     <ol start="1">
     <li><b>Aseptic vs. Regular Carton Detection</b>: 
     Users place both aseptic and regular carton into the bin without distinguishing between them. At this point, PackSwing detects that an object has been placed.
-    </li><li><b>Aseptic vs. Regular Pack Identification</b>: 
+    </li><li><b>Aseptic vs. Regular Carton Identification</b>: 
     If it's a aseptic carton, the metal detection sensor detects aluminum layer in an aseptic carton. If it's a regular carton, the metal sensor does not respond.
     </li><li><b>Sorting and Disposal</b>: 
     If metal is detected (aseptic carton), PackSwing rotates 90 degrees clockwise. If not (regular carton), it rotates 90 degrees counterclockwise to sort and dispose of the cartons accordingly.
