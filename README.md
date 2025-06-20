@@ -96,25 +96,25 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
 
 ## 설치 및 실행 방법 (Installation & Execution)
 
-**1. 위의 회로도를 참고하여 회로도를 완성(Complete the circuit with reference to the schematic above)**
-**2. 위의 이미지를 참고하여 쓰레기통 틀 제작(Build the trash bin frame based on the image above)**
-**3. 회전판 및 틀에 아두이노 보드, Breadboard, Battery, Motor 부착(Attach the Arduino board, breadboard, battery, and motor to the rotating plate and frame)**
+**1. 위의 회로도를 참고하여 회로도를 완성(Complete the circuit with reference to the schematic above)**  
+**2. 위의 이미지를 참고하여 쓰레기통 틀 제작(Build the trash bin frame based on the image above)**  
+**3. 회전판 및 틀에 아두이노 보드, Breadboard, Battery, Motor 부착(Attach the Arduino board, breadboard, battery, and motor to the rotating plate and frame)**  
 **4. 아두이노 코드를 아두이노 보드에 업로드하여 코드 실행(Upload the Arduino code to the Arduino board and run the program)**: [Arduino Code](./ArduinoCode.ino)
 
 ## 팀 소개 (Team Introduction)
 
 ### 팀원 (Team Members)
-- **강소현 (SoHyun Kang)**: PM, 기획자, 디자이너 (PM, Planner, Designer)  
+- **강소현 (SoHyun Kang)**: 기획자, 디자이너, 프로토타입 제작자 (Planner, Designer, Developer)  
   ✉️ Mail: kangsobee@yonsei.ac.kr | Github: [kkangsso](https://github.com/kkangsso)
-- **강승원 (Seungwon Kang)**: 기획자, 개발자, 프로토타입 제작 (Planner, Lead Developer)  
+- **강승원 (Seungwon Kang)**: 기획자, 개발자, 프로토타입 제작자 (Planner, Lead Developer)  
   ✉️ Mail: swkang7263@yonsei.ac.kr | GitHub: [Seungwon511](https://github.com/Seungwon511)
 - **김윤서 (Yoonseo Kim)**: 기획자 (Planner)  
   ✉️ Mail: lemonashley@naver.com | Github: [yoonseo05](https://github.com/yoonseo05)
-- **서은빈 (Eunbin Seo)**: 기획자, 프로토타입 제작, 프리젠테이션 (Planner, Developer, Presenter)  
-  ✉️ Mail: seoeunbin609@gmail.com | Github: BBI-BI[BBI-BI](https://github.com/BBI-BI)  
-- **신예진 (YeJin Shin)**: 디자이너, 기획자 (Designer, Planner)    
+- **서은빈 (Eunbin Seo)**: 기획자, 프로토타입 제작자, 발표자 (Planner, Developer, Presenter)  
+  ✉️ Mail: seoeunbin609@gmail.com | Github: [BBI-BI](https://github.com/BBI-BI)  
+- **신예진 (YeJin Shin)**: 기획자, 디자이너 (Planner, Designer)    
   ✉️ Mail: yj2003@yonsei.ac.kr  | Github: [yeding20](https://github.com/yeding20)  
-- **이재동 (Jaedong Lee)**: 기획, 프로토타입 제작(Planner, Developer)  
+- **이재동 (Jaedong Lee)**: 기획자, 프로토타입 제작자(Planner, Developer)  
   ✉️ Mail: dlwoehd456@gmail.com | Github: [JaeD456](https://github.com/JaeD456)
 
 ### 펠로우 및 멘토 (Fellow & Mentor)
