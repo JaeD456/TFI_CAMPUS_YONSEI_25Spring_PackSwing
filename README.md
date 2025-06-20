@@ -14,27 +14,15 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
 
 ## 프로젝트 개요 (Project Overview)
 
-- **목적**
+- **목적(Purpose)**
     - 이 솔루션은 **멸균팩과 일반팩을 자동으로 분리할 수 있는 기능**을 제공합니다.
-    - 기존의 일반 종이류 쓰레기통에서 무작위적으로 버려지고 있는 **멸균팩과 일반팩, 종이의 혼합배출**을 해결할 수 있습니다.
-    - 기존의 IoT 수거함은 AI 딥러닝을 활용하여 사용하는 전력이 많고 크기가 크다는 문제점이 있었는데, 분류 알고리즘을 간단히 하여 **사용전력과 크기를 모두 줄여** 환경에도, 범용성에도 큰 장점이 있습니다.
-    - 본 프로토타입에서는 완전한 제품에 사용되는 전선과 센서, 
-    - This solution utilizes a **game-based learning approach to enable real-time interaction** between educators and participants. Unlike traditional one-way education methods, it maximizes engagement and learning through interactive game mechanics.
-- **첫번째 프로젝트 - 가방으로 살아남기**
-    - 기존 오프라인 생존가방 보드게임의 장점을 활용하여, 이를 **디지털화한 온라인 게임**을 개발하였습니다.
-    - Digitize the advantages of an existing offline survival bag board game by developing an online game.
-        <details>
-        <summary>생존가방 보드게임</summary>
-            실제 재난 상황이 발생했을 때, 필요한 물품들을 빠르게 챙겨보는 연습. 교육자와 참여자가 함께 참여해서 몰입도를 높일 수 있습니다.
-            *Survival Bag Kit* - An exercise where participants quickly gather essential items in a simulated disaster scenario. The interactive nature enhances engagement between educators and participants.
-        <br>
-            <img src="bagkit_img.png" alt="설명" style="width:35%; height:auto;">
-        </details>
-    - 참고(Reference Models): 교육자가 게임을 호스팅하여 진행하고 피드백을 수집하는 방식
-        - [Kahoot](https://kahoot.com/)
-        - [Slido](https://www.slido.com/)
-        - KLMS (KAIST LMS)
-- **주요 기능**
+    - 기존의 일반 종이류 쓰레기통에서 무작위적으로 버려지고 있는 **멸균팩과 일반팩, 종이의 혼합배출**을 해결하여 종이팩의 재활용률을 높일 수 있습니다.
+    - 기존의 IoT 수거함은 AI 딥러닝을 활용하여 사용하는 전력이 많고 크기가 크다는 문제점이 있었는데, 분류 알고리즘을 간단히 하여 **사용전력과 크기를 모두 줄여** 환경적인 측면에서도, 범용성에도 큰 장점이 있습니다.
+    - This solution provides the ability to automatically separate aseptic and regular paper cartons.
+    - It addresses the issue of **mixed disposal of aseptic cartons, regular cartons, and paper** in conventional paper recycling bins, thereby improving the overall recycling rate of paper cartons.
+    - While conventional IoT-based collection systems often rely on AI deep learning, which requires high power consumption and large physical size, PackSwing simplifies the classification algorithm to significantly **reduce both power usage and device size**, making it more environmentally friendly and widely applicable.
+
+- **주요 기능(Key Features)**
     1. **방 생성 및 참여**: 사용자는 방을 생성하고, 방 코드로 다른 팀원들이 참여할 수 있습니다.
     2. **가방 선택**: 각 팀은 생존 가방을 선택하고, 필요한 아이템을 추가할 수 있습니다.
     3. **시뮬레이션:** 선택한 아이템을 기반으로 시뮬레이션을 진행하여 생존 전략을 테스트합니다.
@@ -51,10 +39,18 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
     View simulation results and monitor each team’s status.</li>
     </li>
     </ol>
+    
+- **아두이노 코드(Arduino Code)**
+[Arduino Code](./ArduinoCode.??)
+
+- **회로도(Circuit Diagram)**
+
+  
+    
 ## 프로젝트 결과 (Project Outcomes)
 
 ### 데모 영상 (Demo Video)
-[Demo Video 링크](./assets/DemoVideo.mp4)
+[Demo Video Link](./assets/DemoVideo.mp4)
 
   **View raw (Sorry about that, but we can’t show files that are this big right now.)** 와 같은 텍스트가 뜰 수 있지만, **View raw** 를 클릭하면 영상을 다운받을 수 있습니다.
   
