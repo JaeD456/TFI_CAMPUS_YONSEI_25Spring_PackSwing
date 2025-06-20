@@ -104,77 +104,45 @@ The Detachable Paper Carton Automatic Sorting Module (hereafter referred to as P
 
 ## 설치 및 실행 방법 (Installation & Execution)
 
-### Service is now deployed and hosted on https://disaster.buttercrab.net/
-If you want to run the program in your local environment, follow the instruction.
-
 **1. Check if the Docker Daemon is running**
-If the Docker Daemon is not installed, please download it from 🖥️[Download Docker](https://docs.docker.com/engine/install/).
 
-**2. Clone the Repository**
-   ```bash
-   git clone https://github.com/ijake-16/disaster.io.git
-   ```
-**3. Move to the project directory**
-   ```bash
-   cd disaster.io
-   ```
-**4. Run the App with Docker**
-   ```bash
-   docker compose up --build # for mac/linux
-   ```
-   ```powershell
-   docker-compose up --build # for windows
-   ```
-**5. Go to the Start Page**
-    link: [https://localhost:8080/](https://localhost:8080/)
 
 ## 팀 소개 (Team Introduction)
 
 ### 팀원 (Team Members)
-- **김정빈 (Jeongbin Kim)**: PM, 기획자, 개발자 (PM, Planner, Developer)  
-  ✉️ Mail: jake16@kaist.ac.kr | GitHub: [ijake-16](https://github.com/ijake-16)
-- **윤지훈 (Jihoon Youn)**: 기획자, 개발자 (Planner, Lead Developer)  
-  ✉️ Mail: jihoon9835@gmail.com | GitHub: [younjihoon](https://github.com/younjihoon)
-- **김지민 (Jimin Kim)**: 기획자, 개발자 (Planner, Developer)  
-  ✉️ Mail: kjm10122@gmail.com | GitHub: [VVictorVV](https://github.com/VVictorVV)
-- **이재현 (Jaehyeon Lee)**: 개발자 (Developer)  
-  ✉️ Mail: jh5323565@kaist.ac.kr | GitHub: [jaedungg](https://github.com/jaedungg)
-- **임자영 (Jayeong Im)**: 디자이너, 기획자 (Designer, Planner)  
-  ✉️ Mail: bagjay@kaist.ac.kr | GitHub: [Gomchiiii](https://github.com/Gomchiiii)
-- **황보민석 (Minseok Hwangbo)**: 개발자 (Developer)  
-  ✉️ Mail: ecobrick@kaist.ac.kr | GitHub: [hwangbominseok](https://github.com/hwangbominseok)
+- **강소현 (SoHyun Kang)**: PM, 기획자, 디자이너 (PM, Planner, Designer)
+  ✉️ Mail: kangsobee@yonsei.ac.kr | Github: [kkangsso](https://github.com/kkangsso)
+- **강승원 (Seungwon Kang)**: 기획자, 개발자, 프로토타입 제작 (Planner, Lead Developer)  
+  ✉️ Mail: swkang7263@yonsei.ac.kr | GitHub: [Seungwon511](https://github.com/Seungwon511)
+- **김윤서 (Yoonseo Kim)**: 기획자 (Planner)
+  ✉️ Mail: lemonashley@naver.com | Github: [yoonseo05](https://github.com/yoonseo05)
+- **서은빈 (Eunbin Seo)**: 기획자, 프로토타입 제작, 프리젠테이션 (Planner, Developer, Presenter)
+  ✉️ Mail: seoeunbin609@gmail.com | Github: BBI-BI[BBI-BI](https://github.com/BBI-BI)
+- **신예진 (YeJin Shin)**: 디자이너, 기획자 (Designer, Planner)  
+  ✉️ Mail: yj2003@yonsei.ac.kr  | Github: [yeding20](https://github.com/yeding20)
+- **이재동 (Jaedong Lee)**: 기획, 프로토타입 제작(Planner, Developer)
+  ✉️ Mail: dlwoehd456@gmail.com | Github: [JaeD456](https://github.com/JaeD456)
 
 ### 펠로우 및 멘토 (Fellow & Mentor)
-- **Fellow : 더프라미스 김동훈 펠로우님** (Donghoon Kim @ The Promise): [Organization Website](https://www.thepromise.or.kr/)
-- **Mentor : 카카오페이 이상은 멘토님** (Sangeun Lee @ Kakaopay): 멘토 연락처 또는 링크
+- **Fellow : 리필리 대표 김재원 펠로우님** : [Organization Website](https://refeely.com/?NaPm=ct%3Dmc4u8on4%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3Debeb1ae28552287fbdc64ef2c2414941f8e9e62f)
+- **Mentor : 카카오 김채현 멘토님** : Mail(charlotte.chk@kakaocorp.com)
 
 
 ## 개발 환경 (Development Environment)
 
-### Frontend
-- **Language:** JavaScript
-- **Framework:** SolidJS
+### Hardware (Embedded)
+ - **Platform**: Arduino UNO R3 Compatible Board (CH340, USB-C Type)
+ - **Language**: C++
+ - **IDE**: Arduino IDE
+ - **Libraries**: Servo.h
+ - **Toolchain**: AVR-GCC (via Arduino IDE)
+ - **Communication**: Serial (via USB-C), Digital/Analog I/O
 
-### Backend
-- **Language:** Python
-- **Framework:** FastAPI
-
-### Other Tools
-- Axios, Ky(HTTP Client), XLSX(Data)
-
-### 버전 관리
-- **Git branch 사용:** PR 기반의 프로세스를 적용. Notion을 통해 이슈 확인 및 프로젝트 버전 관리.
-- **Git Branching:** A pull request-based workflow.
-- **Issue Management:** Managed via Notion, with GitHub for specific issues.
 ### 협업 및 커뮤니케이션
-- **일정 관리:** Notion에서 Kanban과 Calender 위젯으로 일정 관리. Todo Page를 만들어 작업 분배 및 진행 현황 확인.
-- **이슈 관리:** Notion을 바탕으로 GitHub 이슈 작성 및 관리.
-- **Schedule Management:** Use Notion’s Kanban boards and calendar widgets for task tracking and scheduling.
-- **Issue Management:** Draft and manage GitHub issues through Notion.
-- 🛠️  [Notion page link](https://www.notion.so/7f309ba38db1464aa59cc1dd7ab897d7?pvs=21)
+- **일정 관리:** 매주 화요일마다 회의를 진행하면서 진행상황 Notion에 기록. 각자 작업 현황은 카톡으로 주기적으로 확인
+- **Schedule Management:** We hold weekly meetings every Tuesday and record our progress on Notion. Each member's work status is regularly checked via KakaoTalk.
 
 
 ## 연관 자료 (Related Resources)
-- [최종 발표 자료 링크 (Final Presentation Materials)](https://www.figma.com/slides/Hwml6sUaOU8AFqtlaMGxHO/%5B13%EC%A3%BC%EC%B0%A8%5D-Final-Presentation?node-id=1-540&t=zUOB05o0XEOy3HZw-1)
-- [참조 자료 (References)](#)
-- [펠로우 조직 사이트 (Fellow Organization Website)](https://www.thepromise.or.kr/)
+- [최종 발표 자료 링크 (Final Presentation Materials)](./assets/FinalPresentation.pdf)
+- [펠로우 조직 사이트 (Fellow Organization Website)](https://refeely.com/?NaPm=ct%3Dmc4u8on4%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3Debeb1ae28552287fbdc64ef2c2414941f8e9e62f)
